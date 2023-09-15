@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+"articles": [
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Daniel Khalife: Richmond Park closed in search for escaped terror suspect",
+            "description": "Officers have been searching the park for ex-soldier Daniel Khalife, who fled prison on Wednesday, police confirm.",
+            "url": "http://www.bbc.co.uk/news/live/uk-66749354",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-09-08T07:22:17.9816782Z",
+            "content": "Name: Daniel Abed Khalife\r\nAge: 21\r\nHeight: 6ft 2ins (1.88m)\r\nWhere was he last seen? Khalife is accused of escaping from HMP Wandsworth at 07:50 BST on Wednesday morning.\r\nLast seen wearing: Prison-… [+1112 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hong Kong and southern China battles widespread flooding from record rains",
+            "description": "Locals are advised to stay home as record rainfall turns city streets into raging rivers.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-66748239",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F033/production/_131019416_8d2b45f9917981b79decf7e54b168390f6f3428c0_0_6000_40021000x667.jpg",
+            "publishedAt": "2023-09-08T06:37:15.71642Z",
+            "content": "Hong Kong and southern Chinese cities are battling widespread flooding as the region endures some of its heaviest rainfall on record. \r\nOn Friday, streets and subway stations were underwater in Hong … [+3048 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tonight Show host Jimmy Fallon apologises over 'toxic' workplace claims",
+            "description": "The NBC's Tonight Show host has been accused by staff who blame him for a \"toxic\" atmosphere.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66746801",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E09/production/_131018851_gettyimages-1395067090.jpg",
+            "publishedAt": "2023-09-08T06:22:15.7901513Z",
+            "content": "Jimmy Fallon has apologised to staff at NBC's Tonight Show following allegations that he had created a \"toxic\" work environment. \r\n\"I feel so bad I can't even tell you,\" the celebrity host told staff… [+2227 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "DeSantis has heated exchange with audience member",
+            "description": "‘You have allowed people to hunt people like me,’ a man told the Governor at press conference.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66747582",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10091/production/_131018656_p0gcc51j.jpg",
+            "publishedAt": "2023-09-08T03:07:11.2942388Z",
+            "content": "Florida Governor Ron DeSantis got into an argument with an audience member at a press conference in Jacksonville on Thursday.\r\nYou have allowed people to hunt people like me, the man said to DeSantis… [+30 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Thousands of migrant children test NYC schools system",
+            "description": "The first day of class for new arrivals like young Thiago came amid \"dystopian\" rhetoric by the mayor.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66748182",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70D1/production/_131018882_patriciaandthiago.jpg",
+            "publishedAt": "2023-09-08T02:07:12.403041Z",
+            "content": "Media caption, Watch: An emotional first day of school for migrant students in New York City\r\nThe mayor of New York has warned that the city could be \"destroyed\" if it does not get more help to cope … [+6074 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Senator Tuberville: No truce over military blockade on abortion",
+            "description": "Military leaders claim Tommy Tuberville's actions are a national security risk, but the senator is defiant.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66745271",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E3F9/production/_131016385_3f7842f9a259eb93ad92f1bcd1ae775b02fcd755.jpg",
+            "publishedAt": "2023-09-08T01:07:17.9970327Z",
+            "content": "Alabama Senator Tommy Tuberville's block on promotions for senior US military officers is entering its eighth month, causing growing headaches for the armed forces and prompting a new chorus of conde… [+4982 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Danelo Cavalcante: Family 'terrified' by killer's escape from US jail",
+            "description": "The search enters its second week as the fugitive eludes hundreds of police, tracker dogs and aircraft.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66747786",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09A6/production/_131007420_microsoftteams-image-3.png",
+            "publishedAt": "2023-09-08T00:22:13.9185722Z",
+            "content": "A prison break by a murderer in Pennsylvania has left his victim's family \"terrified\" and under 24-hour police protection, says a prosecutor. \r\nDanelo Cavalcante, 34, stabbed his ex-girlfriend Debora… [+1702 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Peter Navarro: ex-Trump adviser found guilty of contempt of Congress",
+            "description": "Peter Navarro flouted a summons by a committee investigating efforts to reverse the 2020 election.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66744592",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80B7/production/_131015923_gettyimages-1665670112.jpg",
+            "publishedAt": "2023-09-07T20:37:19.5096558Z",
+            "content": "Peter Navarro, a former trade adviser to President Donald Trump, has been convicted of contempt of Congress for refusing to co-operate with a probe into the 2021 US Capitol riot. \r\nProsecutors said N… [+1285 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Judge to sentence actor Danny Masterson to prison for two rapes",
+            "description": "The star of That '70s Show will learn his punishment after victim impact statements are read in court.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66744480",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169C7/production/_129951629_c0c73c9a-8490-4fba-8c7c-8801a732ab01.jpg",
+            "publishedAt": "2023-09-07T15:37:23.0746751Z",
+            "content": "A judge in Los Angeles is due to decide the prison sentence for US actor Danny Masterson, who was convicted in May of raping two women in the early 2000s.\r\nThe star of That '70s Show, a TV sit-com se… [+2175 chars]"
+        },
+{
+"source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mark Dickey: Rescuers rush to save US man trapped in Turkey cave",
+            "description": "Mark Dickey has been stuck in the Morca Cave since Saturday after suffering gastrointestinal bleeding.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66742540",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3D9/production/_131014064_img_0092.jpg",
+            "publishedAt": "2023-09-07T15:07:21.5274389Z",
+            "content": "A massive rescue operation has been launched in Turkey after an American man became trapped in the country's third deepest cave complex.\r\nAbout 150 workers have been working to recue Mark Dickey, 40,… [+3202 chars]"
+        }
+    ]
+}
